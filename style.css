@@ -307,8 +307,8 @@ section {
 }
 
 .details-container {
-  min-width: 300px;
-  max-width: 310px;
+  min-width: 200px;
+  max-width: 210px;
   padding: 1.5rem;
   flex: 1;
   background: white;
